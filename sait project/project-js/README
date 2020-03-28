@@ -1,0 +1,3 @@
+I the main-r.js file, I have tried to add the focus listner to each of the text item
+. However, it is as if the HTML5 form validation is overiding it. Nevertheless,
+I left the code for you to have a look at it. May be I am missing out something.
